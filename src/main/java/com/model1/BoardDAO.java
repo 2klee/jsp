@@ -193,6 +193,6 @@ public class BoardDAO extends DBConnPool {
       System.out.println("게시물 삭제 중에 예외 발생");
       e.printStackTrace();
     }
-    return result; // 결과반환
+    return result; //
   }
 }
