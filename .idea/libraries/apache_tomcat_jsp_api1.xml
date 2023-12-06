@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="apache.tomcat.jsp.api1" type="repository">
+    <properties maven-id="org.apache.tomcat:tomcat-jsp-api:9.0.83" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-jsp-api-9.0.83.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-el-api-9.0.83.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-servlet-api-9.0.83.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
